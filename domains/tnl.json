@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "jhi2",
+    "email": "johndrostan@outlook.com"
+  },
+  "record": {
+    "NS": [
+      "decker.ns.cloudflare.com",
+      "hazel.ns.cloudflare.com"
+    ]
+  }
+}
